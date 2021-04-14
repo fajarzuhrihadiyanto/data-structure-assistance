@@ -16,3 +16,7 @@ This repository contain my current assistance task of data structure in C
   - _queue_ : https://github.com/AlproITS/StrukturData/blob/master/For%20C/D.Array%2C%20Stack%2C%20Queue%2C%20Deque%2C%20Pr.Queue/queue_list.c
   - _double-ended queue_ : https://github.com/AlproITS/StrukturData/blob/master/For%20C/D.Array%2C%20Stack%2C%20Queue%2C%20Deque%2C%20Pr.Queue/deque_list.c
   - _priority queue_ : https://github.com/AlproITS/StrukturData/blob/master/For%20C/D.Array%2C%20Stack%2C%20Queue%2C%20Deque%2C%20Pr.Queue/priority_queue_list.c
+  
+### module 2
+- **_task 1_** : task is given from hackerrank platform : https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem
+- **_task 2_** : Implement tree data structure to insert and find level of element in a tree
