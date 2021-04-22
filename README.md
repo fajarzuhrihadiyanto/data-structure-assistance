@@ -20,3 +20,6 @@ This repository contain my current assistance task of data structure in C
 ### module 2
 - **_task 1_** : task is given from hackerrank platform : https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem
 - **_task 2_** : Implement tree data structure to insert and find level of element in a tree
+
+### module 3
+- **_task 1_** : task is given from hackerrank platform : https://www.hackerrank.com/contests/latihan-f/challenges/latihan-apa-ya
